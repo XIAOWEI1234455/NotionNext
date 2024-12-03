@@ -39,7 +39,7 @@ const CONFIG = {
     'XW智能家居的愿景是通过创新科技，构建智能、便捷、安全、节能的居住环境，推动智能化生活方式普及，让每个家庭享受更高效、舒适、环保的智能生活。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '什么是智能家居？', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '智能家居是通过互联网物联网控制家庭设备', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
@@ -77,35 +77,35 @@ const CONFIG = {
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（！）',
+    '我们制定了灵活的付费模式，您可以按需选择。（详细内容可私信博主！）',
 
-  STARTER_PRICING_1_TITLE: 'MI HOME',
+  STARTER_PRICING_1_TITLE: '入门版',
   STARTER_PRICING_1_PRICE: '199',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: '永久',
   STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '方案图纸设计,智能点位规划,产品搭配，对接水电预留，产品入网，场景搭配', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: '包含米家 涂鸦 生态互联方案图纸设计,智能点位规划,产品搭配，对接水电预留，产品入网，场景搭配', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
 
   STARTER_PRICING_2_TAG: '推荐',
-  STARTER_PRICING_2_TITLE: 'HomeKit',
+  STARTER_PRICING_2_TITLE: '基础版',
   STARTER_PRICING_2_PRICE: '499',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: '永久',
   STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含入门版所有项目,APPLE生态互联,APPLETV调试,魔法上网,ISO美区ID', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: '包含绿米Aqara 华为HiLink 苹果HomeKit 入门版所有项目,APPLE生态互联,APPLETV调试,魔法上网,ISO美区ID', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
 
-  STARTER_PRICING_3_TITLE: 'Home',
-  STARTER_PRICING_3_PRICE: '59.9',
+  STARTER_PRICING_3_TITLE: '高阶版',
+  STARTER_PRICING_3_PRICE: '1499',
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
-  STARTER_PRICING_3_PRICE_PERIOD: '每月',
+  STARTER_PRICING_3_PRICE_PERIOD: '永久',
   STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: '包含HomeAssistant 设备调试,彩图UI定制，车载互联', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
