@@ -39,7 +39,7 @@ const CONFIG = {
     'XW智能家居的愿景是通过创新科技，构建智能、便捷、安全、节能的居住环境，推动智能化生活方式普及，让每个家庭享受更高效、舒适、环保的智能生活。 ', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '什么是智能家居？', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '智能家居是通过互联网物联网控制家庭设备', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '智能家居通过互联网物联网控制家庭设备', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
