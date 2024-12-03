@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '智能家居 Smart Home 服务网站', // 英雄区文字
+  STARTER_HERO_TITLE_1: 'XW 智能家居 Smart Home 服务中心', // 英雄区文字
   STARTER_HERO_TITLE_2: '我特别对智能安防和智能健康管理系统感兴趣,希望在未来的工作中能够通过技术创新，帮助您创造更加安全和智能的家居环境，科技改变生活', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
@@ -63,13 +63,13 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '一套性价比高且实用的智能家居方案',
   STARTER_ABOUT_TEXT:
-    'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
+    'XW智能家居的愿景是帮助更多的家庭，最低成本、最高性价比搭建自己的AI智能家庭，帮助您将自己的家庭更加便携性和安全性。 <br /> <br /> 我们团队的宗旨是客户至上，科技创新，用户体验',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '1500+',
-  STARTER_ABOUT_TIPS_2: '智能家居博客',
+  STARTER_ABOUT_TIPS_2: '智能家居站点',
   STARTER_ABOUT_TIPS_3: '正在线上运行',
 
   // 首页价格区块
