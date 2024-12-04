@@ -52,7 +52,7 @@ const CONFIG = {
   STARTER_FEATURE_3_TITLE_1: '个性化与定制', // 特性3
   STARTER_FEATURE_3_TEXT_1: '智能家居的个性化与定制指的是根据用户的需求、生活习惯和偏好，定制和调整智能家居系统的功能、外观、设置和互动方式，以实现更高效、更舒适和更符合个体需求的生活体验。', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'http://workable-angelfish-b60.notion.site', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '数据分析和智能反馈', // 特性4
   STARTER_FEATURE_4_TEXT_1: '智能家居数据与分析使家庭设备变得更智能、个性化和高效，通过对数据的收集与深入分析，智能家居系统能够实现自动化决策、优化用户体验、提升安全性，并在节能和设备维护方面提供支持。', // 特性4
