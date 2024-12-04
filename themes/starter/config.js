@@ -181,21 +181,21 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
+  STARTER_FAQ_1_QUESTION: '智能家居设备会增加电费吗？',
   STARTER_FAQ_1_ANSWER:
-    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+    '智能家居设备的电力消耗因产品而异，但大部分智能家居设备（如智能灯泡、智能插座等）功耗较低。例如，智能灯泡的能效通常比传统白炽灯高，而智能插座也能帮助监测电能使用，避免浪费。智能家居设备可以帮助用户更高效地管理电力使用（如自动调节温度、关闭不必要的设备等），从而可能降低整体的电费。',
 
-  STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
+  STARTER_FAQ_2_QUESTION: '智能家居系统的安装是否复杂？',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    '大多数智能家居设备设计为易于安装，用户可以自行完成安装。例如，智能灯泡、智能插座和智能门锁等产品，通常只需要连接到Wi-Fi网络并按照应用指引进行设置。然而，像全屋智能化解决方案（例如智能安防系统或中央控制系统）可能需要专业安装。如果您不熟悉设备安装过程，建议选择专业的安装服务团队',
 
-  STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
+  STARTER_FAQ_3_QUESTION: '智能家居是否容易受到网络故障的影响？',
   STARTER_FAQ_3_ANSWER:
-    '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+    '可以选择一些不依赖互联网的本地控制设备（如通过Zigbee或蓝牙Mesh协议的设备）或者配备备份电源（如UPS电源），以保障设备在断网或电力中断时的基本功能',
 
-  STARTER_FAQ_4_QUESTION: '文章没有实时同步？',
+  STARTER_FAQ_4_QUESTION: '智能家居系统能否节省时间和提高效率？',
   STARTER_FAQ_4_ANSWER:
-    '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+    '智能家居的设计目的是为了提升家庭生活的便捷性与效率。通过自动化控制和远程管理，您可以节省许多时间。例如，智能灯光可以自动调节开关，智能家电可以按照预设的时间和条件自动启动，智能安防系统可以实现实时监控和远程管理。长期来看，智能家居能够提高家庭管理效率，让您的日常生活更加轻松。',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
