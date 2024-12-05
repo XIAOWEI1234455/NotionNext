@@ -13,7 +13,7 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: 'XW 智能家居 Smart Home 服务中心', // 英雄区文字
   STARTER_HERO_TITLE_2: '我特别对智能安防和智能健康管理系统感兴趣,希望在未来的工作中能够通过技术创新，帮助您创造更加安全和智能的家居环境，科技改变生活', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '设备详情', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '我的社交平台', // 英雄区按钮
@@ -111,7 +111,7 @@ const CONFIG = {
     'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
 
   // 首页用户测评区块
-  STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
+  STARTER_TESTIMONIALS_ENABLE: fales, // 测评区块开关
   STARTER_TESTIMONIALS_TITLE: '用户反馈',
   STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
   STARTER_TESTIMONIALS_TEXT_2:
@@ -198,7 +198,7 @@ const CONFIG = {
     '智能家居的设计目的是为了提升家庭生活的便捷性与效率。通过自动化控制和远程管理，您可以节省许多时间。例如，智能灯光可以自动调节开关，智能家电可以按照预设的时间和条件自动启动，智能安防系统可以实现实时监控和远程管理。长期来看，智能家居能够提高家庭管理效率，让您的日常生活更加轻松。',
 
   // 团队成员区块
-  STARTER_TEAM_ENABLE: true, // 团队成员区块开关
+  STARTER_TEAM_ENABLE: fales, // 团队成员区块开关
   STARTER_TEAM_TITLE: '团队成员',
   STARTER_TEAM_TEXT_1: '我们的开发者团队',
   STARTER_TEAM_TEXT_2:
@@ -235,7 +235,7 @@ const CONFIG = {
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: '最近的新闻',
   STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+    '这里会发布一些关于智能家居最新动态，包括新的动向、新的未来计划，以及新功能的特性',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
