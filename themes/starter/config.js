@@ -41,13 +41,13 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '什么是智能家居？', // 特性1
   STARTER_FEATURE_1_TEXT_1: '智能家居是通过互联网、物联网（IoT）等技术，将家庭中的各种设备（如家电、照明、安防、温控等）进行联网和自动化控制的系统。用户可以通过手机、平板、语音助手等终端设备，远程监控和管理家中的各类智能设备', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://workable-angelfish-b60.notion.site/15340ea76d79803ea244d5ced7403471?pvs=4', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '自动化设置和远程控制家庭', // 特性2
   STARTER_FEATURE_2_TEXT_1: '智能家居的自动化设置和远程控制是其两大核心功能，它们通过技术手段让家庭生活变得更加智能、便捷和高效。这两项功能密切结合，能为用户带来更高的舒适度、安全性和能源管理的优化。', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    'http://workable-angelfish-b60.notion.site', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '个性化与定制', // 特性3
   STARTER_FEATURE_3_TEXT_1: '智能家居的个性化与定制指的是根据用户的需求、生活习惯和偏好，定制和调整智能家居系统的功能、外观、设置和互动方式，以实现更高效、更舒适和更符合个体需求的生活体验。', // 特性3
@@ -57,7 +57,7 @@ const CONFIG = {
   STARTER_FEATURE_4_TITLE_1: '数据分析和智能反馈', // 特性4
   STARTER_FEATURE_4_TEXT_1: '智能家居数据与分析使家庭设备变得更智能、个性化和高效，通过对数据的收集与深入分析，智能家居系统能够实现自动化决策、优化用户体验、提升安全性，并在节能和设备维护方面提供支持。', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://workable-angelfish-b60.notion.site/15440ea76d798098a4befaf2faa4eaf5?pvs=4', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
