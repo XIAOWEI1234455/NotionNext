@@ -15,7 +15,7 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '设备详情', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
+    'https://workable-angelfish-b60.notion.site/15940ea76d798045adfbc931141a49b7', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '我的社交平台', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://muselink.cc/xiaowei', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
