@@ -13,7 +13,7 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: 'XW 智能家居 Smart Home 服务中心', // 英雄区文字
   STARTER_HERO_TITLE_2: '我特别对智能安防和智能健康管理系统感兴趣,希望在未来的工作中能够通过技术创新，帮助您创造更加安全和智能的家居环境，科技改变生活', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '设备详情', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '我们的设备', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://workable-angelfish-b60.notion.site/15940ea76d798045adfbc931141a49b7', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '我的社交平台', // 英雄区按钮
