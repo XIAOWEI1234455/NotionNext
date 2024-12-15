@@ -34,7 +34,7 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特点', // 特性
-  STARTER_FEATURE_TEXT_1: '让我们了解下什么是全屋智能？', // 特性
+  STARTER_FEATURE_TEXT_1: '什么是全屋智能呢？', // 特性
   STARTER_FEATURE_TEXT_2:
     '我们常在互联网短视频刷到全屋智能，看各大博主搭建的智能家居非常方便，我们很多小白也想做全屋智能 但什么是智能家居？品牌之间能不能互通？智能设备有哪些？断网了智能设备还能不能使用，让我们来一一解答', // 特性
 
@@ -292,7 +292,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: '我们通过技术为各家各户带来智慧家庭。',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -326,7 +326,7 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: '常见问题',
       LINK_GROUP: [
         {
           TITLE: '设备本地化执行',
@@ -365,7 +365,7 @@ const CONFIG = {
   STARTER_CTA_TITLE: '你还在等待什么呢？',
   STARTER_CTA_TITLE_2: '现在开始吧',
   STARTER_CTA_DESCRIOTN:
-    '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+    '访问置顶的部署操作，让我们开始吧。',
   STARTER_CTA_BUTTON: true, // 是否显示按钮
   STARTER_CTA_BUTTON_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
