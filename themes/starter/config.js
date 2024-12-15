@@ -34,28 +34,28 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特点', // 特性
-  STARTER_FEATURE_TEXT_1: '智能家居的主要特点', // 特性
+  STARTER_FEATURE_TEXT_1: '什么是全屋智能？', // 特性
   STARTER_FEATURE_TEXT_2:
-    'XW智能家居的愿景是通过创新科技，构建智能、便捷、安全、节能的居住环境，推动智能化生活方式普及，让每个家庭享受更高效、舒适、环保的智能生活。 ', // 特性
+    '我们常在互联网短视频刷到全屋智能，看各大博主搭建的智能家居非常方便，我们很多小白也想做全屋智能 但什么是智能家居？品牌之间能不能互通？智能设备有哪些？断网了智能设备还能不能使用，让我们来一一解答', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '智能家居的主流协议', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '国外协议[PLC KNX CAN RS485 LONGWORKS]国内协议[蓝牙Mesh Zigbee WIFI RF433 Z-WAVE NB IF ROLA]国外生态【苹果HomeKit 亚马逊Amazon 谷歌Google】国内生态米家MIJIA 鸿蒙HarmonyoS 海令Hilink 涂鸦TUYA 绿米Aqara 百度Baidu 阿里Tmallgenle', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '国外协议【PLC KNX CAN RS485 LONGWORKS】国内协议【蓝牙Mesh Zigbee WIFI RF433 Z-WAVE NB IF ROLA】国外生态【苹果HomeKit 亚马逊Amazon 谷歌Google】国内生态【米家MIJIA 鸿蒙HarmonyoS 海令Hilink 涂鸦TUYA 绿米Aqara 百度Baidu 阿里Tmallgenle】', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://workable-angelfish-b60.notion.site/15340ea76d79803ea244d5ced7403471?pvs=73', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '自动化设置和远程控制家庭', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '智能家居的自动化设置和远程控制是其两大核心功能，它们通过技术手段让家庭生活变得更加智能、便捷和高效。这两项功能密切结合，能为用户带来更高的舒适度、安全性和能源管理的优化。', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '智能家居装修顺序', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '设备方案 主体拆除 水电开槽 水电安装 木工施工 油工刷漆 安装设备 调试设备', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'http://workable-angelfish-b60.notion.site', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '个性化与定制', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '智能家居的个性化与定制指的是根据用户的需求、生活习惯和偏好，定制和调整智能家居系统的功能、外观、设置和互动方式，以实现更高效、更舒适和更符合个体需求的生活体验。', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '全屋WIFI布控/智能灯具布线', // 特性3
+  STARTER_FEATURE_3_TEXT_1: 'AC+AP 有线Mesh组网 无线Mesh组网 单路由器 运营商FTTR', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: 'http://workable-angelfish-b60.notion.site', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '数据分析和智能反馈', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '智能家居数据与分析使家庭设备变得更智能、个性化和高效，通过对数据的收集与深入分析，智能家居系统能够实现自动化决策、优化用户体验、提升安全性，并在节能和设备维护方面提供支持。', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '智能家居系统', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '智能照明系统 智能语音系统 智能环境系统 智能控制系统 智能安防系统', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: 'https://workable-angelfish-b60.notion.site/15440ea76d798098a4befaf2faa4eaf5?pvs=4', // 特性4
 
