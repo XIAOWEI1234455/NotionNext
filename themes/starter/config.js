@@ -34,12 +34,12 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特点', // 特性
-  STARTER_FEATURE_TEXT_1: '什么是全屋智能？', // 特性
+  STARTER_FEATURE_TEXT_1: '让我们了解下什么是全屋智能？', // 特性
   STARTER_FEATURE_TEXT_2:
     '我们常在互联网短视频刷到全屋智能，看各大博主搭建的智能家居非常方便，我们很多小白也想做全屋智能 但什么是智能家居？品牌之间能不能互通？智能设备有哪些？断网了智能设备还能不能使用，让我们来一一解答', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '智能家居的主流协议', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '国外协议【PLC KNX CAN RS485 LONGWORKS】国内协议【蓝牙Mesh Zigbee WIFI RF433 Z-WAVE NB IF ROLA】国外生态【苹果HomeKit 亚马逊Amazon 谷歌Google】国内生态【米家MIJIA 鸿蒙HarmonyoS 海令Hilink 涂鸦TUYA 绿米Aqara 百度Baidu 阿里Tmallgenle】', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '国外协议【PLC KNX CAN RS485】国内协议【蓝牙Mesh Zigbee WIFI RF433 Z-WAVE】国外生态【苹果HomeKit 亚马逊Amazon 谷歌Google】国内生态【米家MIJIA 鸿蒙HarmonyoS 海令Hilink 涂鸦TUYA 绿米Aqara】', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://workable-angelfish-b60.notion.site/15340ea76d79803ea244d5ced7403471?pvs=73', // 特性1
 
@@ -63,7 +63,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '一套性价比高且实用的智能家居方案',
   STARTER_ABOUT_TEXT:
-    'XW智能家居的愿景是帮助更多的家庭，最低成本、最高性价比搭建自己的AI智能家庭，帮助您将自己的家庭更加便携性和安全性。 <br /> <br /> 我们团队的宗旨是客户至上，科技创新，用户体验',
+    '我们团队的愿景是帮助更多的家庭，最低成本、最高性价比搭建自己的AI智能家庭，帮助您将自己的家庭更加便携性和安全性。 <br /> <br /> 我们团队的宗旨是客户至上，科技创新，用户体验',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -181,21 +181,21 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: '智能家居设备会增加电费吗？',
+  STARTER_FAQ_1_QUESTION: '智能家居设备会耗电吗？',
   STARTER_FAQ_1_ANSWER:
-    '智能家居设备的电力消耗因产品而异，但大部分智能家居设备（如智能灯泡、智能插座等）功耗较低。例如，智能灯泡的能效通常比传统白炽灯高，而智能插座也能帮助监测电能使用，避免浪费。智能家居设备可以帮助用户更高效地管理电力使用（如自动调节温度、关闭不必要的设备等），从而可能降低整体的电费。',
+    '不同品牌不同协议布线成本都不一样，像无线智能系统布线成本少，只是额外增加部分网线和电源，但是有线成本布线相对较高，额外要增加信号线。',
 
-  STARTER_FAQ_2_QUESTION: '智能家居系统的安装是否复杂？',
+  STARTER_FAQ_2_QUESTION: '智能家居一整套需要多少钱？',
   STARTER_FAQ_2_ANSWER:
-    '大多数智能家居设备设计为易于安装，用户可以自行完成安装。例如，智能灯泡、智能插座和智能门锁等产品，通常只需要连接到Wi-Fi网络并按照应用指引进行设置。然而，像全屋智能化解决方案（例如智能安防系统或中央控制系统）可能需要专业安装。如果您不熟悉设备安装过程，建议选择专业的安装服务团队',
+    '智能家居的费用通常在几千元到上万元甚至更多，取决于你选择的配置产品和系统复杂性。',
 
-  STARTER_FAQ_3_QUESTION: '智能家居是否容易受到网络故障的影响？',
+  STARTER_FAQ_3_QUESTION: '有了智能中控屏家里还需要开关吗？',
   STARTER_FAQ_3_ANSWER:
-    '可以选择一些不依赖互联网的本地控制设备（如通过Zigbee或蓝牙Mesh协议的设备）或者配备备份电源（如UPS电源），以保障设备在断网或电力中断时的基本功能',
+    '需要，中控屏更适合年轻人使用，家里预留开关不仅是满足传统灯光的控制使用，无线系统智能中控屏和开关是必须要有的。',
 
-  STARTER_FAQ_4_QUESTION: '智能家居系统能否节省时间和提高效率？',
+  STARTER_FAQ_4_QUESTION: '智能家居有线无线如何选？',
   STARTER_FAQ_4_ANSWER:
-    '智能家居的设计目的是为了提升家庭生活的便捷性与效率。通过自动化控制和远程管理，您可以节省许多时间。例如，智能灯光可以自动调节开关，智能家电可以按照预设的时间和条件自动启动，智能安防系统可以实现实时监控和远程管理。长期来看，智能家居能够提高家庭管理效率，让您的日常生活更加轻松。',
+    '面积小追求性价比选无线，面积大追求稳定选有线。',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
@@ -329,15 +329,15 @@ const CONFIG = {
       TITLE: 'Notion写作',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
+          TITLE: '设备本地化执行',
           URL: 'https://docs.tangly1024.com/article/start-to-write'
         },
         {
-          TITLE: '快捷键提升效率',
+          TITLE: '智能家居场景模式',
           URL: 'https://docs.tangly1024.com/article/notion-short-key'
         },
         {
-          TITLE: '中国大陆使用Notion',
+          TITLE: '智能家居常见离线故障',
           URL: 'https://docs.tangly1024.com/article/notion-faster'
         }
       ]
