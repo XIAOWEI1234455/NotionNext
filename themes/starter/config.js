@@ -181,7 +181,7 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
   STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
 
-  STARTER_FAQ_1_QUESTION: '智能家居设备会耗电吗？',
+  STARTER_FAQ_1_QUESTION: '智能家居布线成本高吗？',
   STARTER_FAQ_1_ANSWER:
     '不同品牌不同协议布线成本都不一样，像无线智能系统布线成本少，只是额外增加部分网线和电源，但是有线成本布线相对较高，额外要增加信号线。',
 
