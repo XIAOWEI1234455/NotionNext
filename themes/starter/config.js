@@ -38,8 +38,8 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2:
     'XW智能家居的愿景是通过创新科技，构建智能、便捷、安全、节能的居住环境，推动智能化生活方式普及，让每个家庭享受更高效、舒适、环保的智能生活。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '什么是智能家居？', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '智能家居是通过互联网、物联网（IoT）等技术，将家庭中的各种设备（如家电、照明、安防、温控等）进行联网和自动化控制的系统。用户可以通过手机、平板、语音助手等终端设备，远程监控和管理家中的各类智能设备', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '智能家居的主流协议', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '国外协议[PLC KNX CAN RS485 LONGWORKS]国内协议[蓝牙Mesh Zigbee WIFI RF433 Z-WAVE NB IF ROLA]国外生态【苹果HomeKit 亚马逊Amazon 谷歌Google】国内生态米家MIJIA 鸿蒙HarmonyoS 海令Hilink 涂鸦TUYA 绿米Aqara 百度Baidu 阿里Tmallgenle', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://workable-angelfish-b60.notion.site/15340ea76d79803ea244d5ced7403471?pvs=73', // 特性1
 
