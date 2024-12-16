@@ -312,17 +312,17 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: '设备调试',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
+          TITLE: '设备入网',
           URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
         },
         {
-          TITLE: '升级指南',
+          TITLE: '智能开关接线原理图',
           URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: '智能开关智能灯具布线图', URL: 'https://docs.tangly1024.com/article/latest' }
       ]
     },
     {
