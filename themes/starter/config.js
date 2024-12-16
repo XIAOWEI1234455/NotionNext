@@ -33,7 +33,7 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特点', // 特性
+  STARTER_FEATURE_TITLE: '', // 特性
   STARTER_FEATURE_TEXT_1: '什么是全屋智能呢？', // 特性
   STARTER_FEATURE_TEXT_2:
     '我们常在互联网短视频刷到全屋智能，看各大博主搭建的智能家居非常方便，我们很多小白也想做全屋智能 但什么是智能家居？品牌之间能不能互通？智能设备有哪些？断网了智能设备还能不能使用，让我们来一一解答', // 特性
