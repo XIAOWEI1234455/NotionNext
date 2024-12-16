@@ -36,7 +36,7 @@ const CONFIG = {
   STARTER_FEATURE_TITLE: '', // 特性
   STARTER_FEATURE_TEXT_1: '什么是全屋智能呢？', // 特性
   STARTER_FEATURE_TEXT_2:
-    '我们常在互联网短视频刷到全屋智能，看各大博主搭建的智能家居非常方便，我们很多小白也想做全屋智能 但什么是智能家居？品牌之间能不能互通？智能设备有哪些？断网了智能设备还能不能使用，让我们来一一解答', // 特性
+    '我们常在互联网短视频刷到全屋智能，看各大博主搭建的智能家居非常方便，我们很多小白也想做全屋智能 但什么是智能家居？品牌之间能不能互通？智能设备有哪些？断网了智能设备还能不能使用，先让我们来了解一下协议 顺序 WIFI布控 家居系统', // 特性
 
   STARTER_FEATURE_1_TITLE_1: '智能家居的主流协议', // 特性1
   STARTER_FEATURE_1_TEXT_1: '国外协议【PLC KNX CAN RS485】国内协议【蓝牙Mesh Zigbee WIFI RF433 Z-WAVE】国外生态【苹果HomeKit 亚马逊Amazon 谷歌Google】国内生态【米家MIJIA 鸿蒙HarmonyoS 海令Hilink 涂鸦TUYA 绿米Aqara】', // 特性1
@@ -63,7 +63,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '一套性价比高且实用的智能家居方案',
   STARTER_ABOUT_TEXT:
-    '我们团队的愿景是帮助更多的家庭，最低成本、最高性价比搭建自己的AI智能家庭，帮助您将自己的家庭更加便携性和安全性。 <br /> <br /> 我们团队的宗旨是客户至上，科技创新，用户体验',
+    '我们团队的愿景是帮助更多的家庭，最低成本、最高性价比搭建自己的AI智能家庭，帮助您将自己的家庭更加便携性和安全性。 <br /> <br /> 我们团队的宗旨是客户至上，满足客户一切需求。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
