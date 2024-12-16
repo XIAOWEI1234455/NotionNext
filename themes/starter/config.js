@@ -292,21 +292,21 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为各家各户带来智慧家庭。',
+  STARTER_FOOTER_SLOGAN: '用最简单的方法玩转智能家居。',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '关于我们',
+      TITLE: 'Notion写作',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: 'Notion快捷键提升效率', URL: 'https://docs.tangly1024.com/about' },
         {
-          TITLE: '帮助支持',
+          TITLE: 'Notion开始写作',
           URL: 'https://docs.tangly1024.com/article/how-to-question'
         },
         {
-          TITLE: '合作申请',
+          TITLE: '中国大陆使用Notion',
           URL: 'https://docs.tangly1024.com/article/my-service'
         }
       ]
