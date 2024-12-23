@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享教程',
   HEO_HERO_TITLE_2: '服务大众',
-  HEO_HERO_TITLE_3: 'XAOWI.CLICK',
+  HEO_HERO_TITLE_3: '产品 交互 部署 设计',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '智能家居4.0 轻松部署自己的全屋智能',
   HEO_HERO_TITLE_LINK: 'xaowi.click',
